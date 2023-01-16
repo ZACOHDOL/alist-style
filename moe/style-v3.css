@@ -70,7 +70,7 @@
 }
 
 /*底部*/
-.footer {
+.footer,hope-close-button {
 	display: none !important /*隐藏页脚(自行选择)*/
 }
 
