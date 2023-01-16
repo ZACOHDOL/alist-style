@@ -3,6 +3,11 @@
     color: #ffb6c1 !important /*设置所有图标颜色*/
 }
 
+/*图片替换*/
+.hope-image {
+    content: url(https://jsd.cdn.zzko.cn/gh/ZACOHDOL/alist-style@main/moe/91porn.jpg);
+}
+
 .hope-button {
     color: #fff !important; /*设置按钮字体为白色*/
     background-color: #ffb6c1 !important /*设置按钮背景为粉色*/
@@ -70,7 +75,7 @@
 }
 
 /*底部*/
-.footer,hope-close-button {
+.footer,.hope-close-button {
 	display: none !important /*隐藏页脚(自行选择)*/
 }
 
